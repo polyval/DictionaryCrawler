@@ -1,1 +1,2 @@
-# DictionaryCrawler
+## DictionaryCrawler
+I went to this [website](http://www.webopedia.com/) to get the definition of **marquee** one day. It occurred to me that I should make a computer dictionary using in my mobile phone. So I wrote this script to download the technical jargon and corresponding definition to text files for the future use of converting to MDX format files by which the meaning of words can be looked up in mobile phones.
